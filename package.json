@@ -1,0 +1,17 @@
+{
+  "name": "sit725-2024-t1-prac3",
+  "version": "1.0.0",
+  "description": "sit725-2024-t1-prac3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "html": "^1.0.0",
+    "mongodb": "^6.6.1"
+  }
+}
